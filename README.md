@@ -7,7 +7,6 @@ Estudios personales para el desarrollo de sistemas embebidos e IoT.
 Material recopilado de la Web.
 
 ```markdown
-Simposios
 
 1. Diagramas de Estado
 2. Metodologías Ágiles
