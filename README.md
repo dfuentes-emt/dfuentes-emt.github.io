@@ -18,6 +18,5 @@ Material recopilado de la Web.
 7. C++, HDL, Verilog, RTOS
 
 ```
-**Bold** and _Italic_ and `Code` text
 
 [All About Circuits](https://www.allaboutcircuits.com/)
