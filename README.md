@@ -15,11 +15,11 @@ Material recopilado de la Web.
 3. Protocolos y comunicación
 
 4. ZigBee, RF, Ethernet, WiFi, LoRaWAN
-  1.ZigBee
-  2.RF
-  3.Ethernet: Wiz5500, ENC28J60, Google Cloud Messaging
-  4.WiFi
-  5.LoRaWAN
+  1. ZigBee
+  2. RF
+  3. Ethernet: Wiz5500, ENC28J60, Google Cloud Messaging
+  4. WiFi
+  5. LoRaWAN
 5. Tecnologías actuales de baterías
 
 6. Ruido en sistemas con microcontroladores
